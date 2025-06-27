@@ -27,9 +27,11 @@ const NavLink = ({ path, text, onClick }: NavLinkProps) => {
 
 const Logo = () => (
   <div className="logo">
-    <Link to="/">
-      <img src="/images/common/logo.svg" alt="Logo" className="inline-block"/>
-      <span className="font-bold text-primary ms-2">CiyaTrip</span>
+    <Link to="/" className="flex items-center gap-4">
+      <img src="/images/common/logo.svg" alt="Logo"/>
+      <span className="text-2xl font-bold text-primary">Ciya
+        <span className="text-black">Trip</span>
+      </span>
     </Link>
   </div>
 );
