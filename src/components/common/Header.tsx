@@ -28,7 +28,7 @@ const NavLink = ({ path, text, onClick }: NavLinkProps) => {
 const Logo = () => (
   <div className="logo">
     <Link to="/">
-      <img src="/images/common/logo.png" alt="Logo" className="w-32" />
+      <img src="/images/common/logo.svg" alt="Logo" className="w-32" />
     </Link>
   </div>
 );
