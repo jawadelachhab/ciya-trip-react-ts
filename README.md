@@ -9,7 +9,7 @@
 
 /public/preview.jpg
 ```
-![CiyaTrip Screenshot](./public/preview.jpg)
+![CiyaTrip Screenshot](./public/preview.png)
 
 ---
 
@@ -63,6 +63,6 @@ npm run build
 If you like this project, consider giving it a ⭐ on GitHub and following the account for more awesome projects!
 
 [👉 Follow me on GitHub](https://github.com/jawadelachhab)  
-[⭐ Star this repository](https://jawadelachhab/ciya-trip-react-ts)
+[⭐ Star this repository](https://github.com/jawadelachhab/ciya-trip-react-ts)
 
 Thank you for your support! ❤️
