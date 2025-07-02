@@ -9,7 +9,7 @@
 
 /public/preview.jpg
 ```
-![CiyaTrip Screenshot](./public/images/preview.png)
+![CiyaTrip Screenshot](preview.png)
 
 ---
 
