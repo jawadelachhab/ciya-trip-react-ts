@@ -7,9 +7,9 @@
 
 ## 📸 Project Screenshot
 
-/public/preview.png
+/public/images/preview.png 
 ```
-![CiyaTrip Screenshot](./public/preview.png)
+![CiyaTrip Screenshot](./public/images/preview.png)
 
 ---
 
