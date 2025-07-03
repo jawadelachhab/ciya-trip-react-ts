@@ -1,41 +1,42 @@
 
-# 🌍 CiyaTrip — Travel & Tour Booking Website
+# Ciya Trip 🌍
 
 🔗 **Live Preview:** [Visit the Live Site](https://ciyatrip.vercel.app/)
 
-**CiyaTrip** is a modern travel and tourism web application built with **React + Vite**. It allows users to explore top destinations, view detailed trip plans, and make travel bookings — all through a sleek, responsive, and interactive interface.
+
+**Ciya Trip** is a travel and tour booking website featuring a modern design. It offers destination listings, travel packages, and easy booking options to help users plan their adventures effortlessly.
+
 
 ## 📸 Project Screenshot
 
-/public/images/preview.png 
-```
-![CiyaTrip Screenshot](./public/images/preview.png)
+![Ciya Trip Preview](./public/ciya-trip.png)
 
 ---
 
 ## 🚀 Features
 
-- 🇺🇳 World tour destinations with country flags
-- 📆 Day-wise travel plan display
-- 🖼️ Beautiful gallery and testimonial sections
-- 📍 Interactive map with location pins
-- 🎯 Scroll-to-top button
-- ⚡ Built using Vite for lightning-fast development
+- 🧭 Search and browse destinations  
+- 🛎️ Clear booking call-to-action  
+- 🖼️ Interactive hero slider and destination cards  
+- 💡 Fully responsive design for all screen sizes
+
 
 ---
 
 ## 🛠️ Built With
 
-- [React](https://react.dev/)
-- [Vite](https://vitejs.dev/)
-- [React Icons](https://react-icons.github.io/react-icons/)
-- [Tailwind](https://tailwindcss.com/)
+- [React](https://react.dev/)  
+- [Vite](https://vitejs.dev/) 
+- [TypeScript](https://www.typescriptlang.org/) 
+- [Tailwind CSS](https://tailwindcss.com/)
+- [React Router DOM](https://reactrouter.com/)   
 
 ---
 
 ## 🧪 Getting Started
 
 ### Step 1: Clone the repository
+
 ```bash
 git clone https://github.com/jawadelachhab/ciya-trip-react-ts.git
 cd ciya-trip-react-ts
